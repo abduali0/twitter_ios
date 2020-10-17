@@ -1,4 +1,4 @@
-#Note I will be fixing this. I've just been busy with midterms, 3rd one tomorrow and I will be finishing this up
+# Note I will be fixing this. I've just been busy with midterms, 3rd one tomorrow and I will be finishing this up
 
 # Twitter - Part II
 
